@@ -1,0 +1,28 @@
+html{
+  background-color: cornsilk;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 22px;
+}
+
+.App{
+  text-align: center;
+  height: 300px;
+  width: 300px;
+  border: 2px black solid;
+  padding: 20px;
+  border-radius: 15px;
+  background: rgb(238, 190, 172);
+  margin: auto auto;
+  margin-top: 50px;
+}
+
+button{
+  border-radius: 25px;
+  border: 2px black solid;
+  background: chocolate;
+  color: black;
+  font-weight: bold;
+  height: 40px;
+  width: 100px;
+  outline:none;
+}
